@@ -1,0 +1,6 @@
+PC software instruction.
+
+1.Choose the right version of CH340 to install according to your PC system type. Win7 32 bits please choose 32 bits one. Win7 64 bits or above system choose 64 bits one.
+2.Install the pc software.
+3.Connect the device to PC with usb cable. Connect the power cable and turn on the switch.
+4.Click the shortcut icon of pc control software on the desk to run the software. Choose the right COM port which the device connected (Can be find out in device manager of pc). If the connection is successful,the indicator turns green and can start to operate.
